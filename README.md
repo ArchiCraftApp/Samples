@@ -6,19 +6,17 @@ This repository contains example IFCX drawing files created with ArchiCraft. The
 
 ---
 
-## 📁 Included Samples
+## Included Samples
 
 | Preview | File Name | Description | Category |
 | :--- | :--- | :--- | :--- |
-| *(Image)* | `modern-family-home.ifcx` | Complete floor plan and elevation of a 2-story residential home. | Architecture |
-| *(Image)* | `office-floor-layout.ifcx` | Commercial office space layout featuring workstation zones and meeting rooms. | Interior |
-| *(Image)* | `site-plan-basic.ifcx` | Top-down site plan including property lines, driveways, and landscaping layers. | Site Planning |
+| `ArchiCraft-Sample_Farnsworth-House.ifcx` | Complete 3D model of Ludwig Mies van der Rohe's iconic modern masterpiece (1951) | Architecture |
+| `ArchiCraft-Sample_Stahl-House.ifcx` | Model of Case Study House #22 by Pierre Koenig (1960) | Architecture |
 
 ---
 
-## 🚀 How to Use These Files
+## How to Use These Files
 
-### Option 1: Open Directly in ArchiCraft
-1. Download the `.ifcx` file of your choice or clone this repository:
+### Download the `.ifcx` file of your choice or clone this repository:
    ```bash
    git clone [https://github.com/ArchiCraftApp/samples.git](https://github.com/ArchiCraftApp/samples.git)
