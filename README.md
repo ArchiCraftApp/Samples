@@ -1,7 +1,5 @@
 # ArchiCraft Sample Files (.ifcx)
 
-Welcome to the official sample files repository for **ArchiCraft**, the AI-powered, open-source CAD & BIM platform for architects built in Rust.
-
 This repository contains example IFCX drawing files created with ArchiCraft. These files serve as inspiration, reference models for testing, and starter templates for your own architectural and drafting projects.
 
 ---
